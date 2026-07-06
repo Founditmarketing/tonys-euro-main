@@ -1,0 +1,7 @@
+{
+  "name": "tonys-euro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tony's European Auto Service — marketing site",
+  "engines": { "node": ">=18" }
+}
