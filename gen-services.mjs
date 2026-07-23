@@ -135,6 +135,10 @@ function page(c) {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,144,600;0,144,700;1,144,500;1,144,600&family=Saira+Condensed:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/site-v2.css">
+<!-- Found It Lead Capture -->
+<script src="https://www.founditos.com/embed/lead-capture.js" data-account="6741e92e-66d3-442c-89c6-233d7cb49441" async></script>
+<!-- LeadConnector Chat Widget -->
+<script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" data-widget-id="6a6270edcbb3de01dd986617" data-source="WEB_USER"></script>
 </head>
 <body>
 ${HEADER}
